@@ -1,6 +1,6 @@
-# test-vuex
+# Event Management App - Vue.js
 
-## Project setup
+## For Project setup
 ```
 npm install
 ```
